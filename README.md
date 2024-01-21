@@ -1,4 +1,8 @@
-# Github campus expert Nombre Apellidos alu0101398198
+# Github Campus Expert 
+
+- Nombre 
+- Apellidos 
+- aluXXXX
 
 ## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
 
