@@ -8,10 +8,6 @@
 
 ![correo de confirmacion del cuestionario](docs/correo_cuestionario.png)
 
-## Hacerse miembro de la comunidad de Currents/G+ de PL
-
-![miembro en la comunidad de Currents/G+](docs/miembro_comunidad.png)
-
 ## Crear equipo con nombre correcto
 
 ![equipo](docs/equipo.png)
